@@ -10,6 +10,6 @@
   "author": "Kauã Carvalho",
   "license": "ISC",
   "dependencies": {
-    "soap": "^1.1.11"
+    "soap": "^1.1.12"
   }
 }
